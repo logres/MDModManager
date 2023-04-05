@@ -1,4 +1,4 @@
-# MDModManager
+# MDModManager 大师决斗Mod管理器
 A MD Mod Manager developed in python and PySimpleGUI.
 
 ## Features
