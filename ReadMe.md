@@ -19,3 +19,11 @@ Now I have't packaged it, so you need to run it by yourself.
 you can download mod file yourself and import it to the manager, or I could provide some local_resource_dir.zip for you.
 
 I will package it in the future.
+
+## Restart
+
+I Restart This Project with Wails + React, to provide more sophisticated user experience.
+
+https://github.com/logres/MasterDuelModManager
+
+So, I will Archive this old one.
